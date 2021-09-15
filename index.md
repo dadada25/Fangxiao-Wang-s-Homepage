@@ -1,5 +1,5 @@
 # Fangxiao Wang's Homepage
-%% 先把个人联系信息和照片放上去，然后再做一篇博客
+<div style="display:none">先把个人联系信息和照片放上去，然后再做一篇博客</div>
 ## 个人信息——一些我希望你能第一眼看到的内容
 ### 专业成绩
 GPA：3.9 Score:88.93 Ranking:11/240
