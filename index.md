@@ -8,5 +8,5 @@ GPA：3.9 Score:88.93 Ranking:11/240
 一篇专利在投，一篇论文在投
 
 # 科研经历
-## Tracking Algorithm Improvement    Prof.Gang Wang(UESTC)
-## Envy Free Allocation on Submodular Items     Prof.Bo Li(POLYU)
+### Tracking Algorithm Improvement    Prof.Gang Wang(UESTC)
+### Envy Free Allocation on Submodular Items     Prof.Bo Li(POLYU)
